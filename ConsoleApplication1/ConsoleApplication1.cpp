@@ -6,6 +6,7 @@
 int main()
 {
     ConsoleApplication1
+    ConsoleApplication2
     std::cout << "Hello World!\n";
 }
 
