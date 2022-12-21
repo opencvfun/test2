@@ -5,6 +5,7 @@
 
 int main()
 {
+    ConsoleApplication1
     std::cout << "Hello World!\n";
 }
 
